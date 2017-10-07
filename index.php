@@ -23,6 +23,7 @@
 			<li>surveilllance</li>
 			<li>Herd monitoring</li>
 			<li>wildfire controle</li>
+			<li>Crop monitoring</li>
 		</ul>
 		</div>
 	</body>
