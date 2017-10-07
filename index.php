@@ -3,7 +3,7 @@
 	<head>
 <meta charset="utf-8">
 		<title>MacDrones Home Page</title>
-		<link rel="styles" href="./styles/styles.css"
+		<link rel="styles" href="./styles/styles.css">
 	</head>
 	<body>
 		<h1>MacDrones</h1>
