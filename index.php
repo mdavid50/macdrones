@@ -18,6 +18,11 @@
 			<li>Beautiful landscapes</li>
 			<li>Full Realestate Video</li>
 			<li>action video</li>
+			<li>safety inspections</li>
+			<li>surveying</li>
+			<li>surveilllance</li>
+			<li>Herd monitoring</li>
+			<li>wildfire controle</li>
 		</ul>
 		</div>
 	</body>
