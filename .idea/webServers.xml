@@ -2,7 +2,7 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="6dfc49c4-8a6b-4a50-a883-c36591ad83e8" name="macdrones" url="https://bootcampt-coders.cnm.edu/~mdavid5/macdrones/">
+      <webServer id="6dfc49c4-8a6b-4a50-a883-c36591ad83e8" name="macdrones" url="https://bootcamp-coders.cnm.edu/~mdavid5/macdrones/">
         <fileTransfer host="bootcamp-coders.cnm.edu" port="22" privateKey="C:\Users\mjdav\Desktop\bootcamp\ssh-key.openssh" rootFolder="/home/mdavid5/public_html/macdrones" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
