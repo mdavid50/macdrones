@@ -13,7 +13,8 @@
 			Think of all you have been missing!</p>
 		<div>
 			<h2>The Possabilities are Endless</h2>
-			<p>We</p>
+			<p>We are here to provide our customers with rapid accurate service. We help our customers take back those
+			valuable manhours and put them to better use. </p>
 		<ul>
 			<li>Beautiful landscapes</li>
 			<li>Full Realestate Video</li>
