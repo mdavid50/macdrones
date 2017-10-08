@@ -5,3 +5,8 @@ h1{
 li{
 	list-style: none;
 }
+.center{
+	width: 100%;
+	margin: auto;
+	text-align:center;
+}
